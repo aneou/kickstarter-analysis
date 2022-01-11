@@ -1,5 +1,5 @@
 # kickstarter-analysis
-An analysis of Kickstarter data to find trends helpful twoards a successful Kickstarter projects
+An analysis of Kickstarter data to find trends helpful towards a successful Kickstarter projects
 ---
 ## Overview
 Using Kickstarter data from projects started between 2009 and 2017 analyses were performed to find trends that led to succesful Kickstarter projects. Particular attention was put to Theater and Play category/subcategory.
